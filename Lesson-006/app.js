@@ -6,3 +6,4 @@ import { clean } from './utility.js'
 
 //OR
 import { clean as myClean} from './utility.js'
+import * as bundled from './utility'
